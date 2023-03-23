@@ -1,0 +1,9 @@
+set count to 0
+set searchCharacter to "T"
+set str to "There are trees near the crest of a sea named Gallilee that smells menacingly close to potpourri."
+for every character in str {
+    if character matches searchCharacter {
+        add 1 to count
+    }
+}
+print count
