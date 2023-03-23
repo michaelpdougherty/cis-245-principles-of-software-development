@@ -1,0 +1,40 @@
+Michael Dougherty
+Assignment #3
+
+1. What is software development?
+
+Software development, generally, is the practice of writing computer code to power computer or information systems. A software developer is responsible for understanding programming languages and effective methods of data transformation, transfer, and presentation. For example, if it is his specific job, he must understand how to instruct a computer to respond to HTTP requests on the open Internet in such a manner that an authorized user may have a pleasant browsing experience while an unauthorized user is denied from accessing any information at all. Software development is unique because computers follow specific human instructions to direct all kinds of things in our world, and they cannot modify their behavior unless they have been programmed to do so. This is why software development typically involves a high degree of logical thinking and deductive reasoning to ensure that your system acts as expected in as many foreseeable circumstances as possible. If I give a truck driver bad directions, he will still avoid driving off a cliff, but a computer will not.
+
+
+2. How can software development be differentiated from Software Engineering?
+
+
+For me, the difference is completely meaningless.
+
+
+3. Revisit the software development cycle as depicted in the diagram shown.  Select two of the areas (stages) and explain what is involved in each area. (30)
+
+
+Planning: the planning phase is the first phase of the SDLC. It involves making up-front decisions about the project and its objectives. During this phase, important planning and specification documents are drawn up that will be used as a roadmap for the entire project, although they may be subject to change.
+
+Maintenance: the maintenance phase is the final phase of the SDLC. It involves everything that happens after a product has been delivered to its end users. This could include addressing reliability issues such as downtime, fixing bugs, and making new features as they are requested by end users. The maintenance phase lasts as long as the software is used and there are people around to maintain it.
+
+
+4. Look back at question three(3) and, using one of the steps you chose, explain the relationship of that step to (a) the step before it and (b) the step after it.  Be sure to indicate how one step might be dependent on the other.(20)
+
+
+The planning phase is the first phase, so it does not have a step before it. After the planning phase is the analysis phase. Every software project must start from an idea. After you have an idea, you must perform some kind of analysis on that idea to determine if it is worth the investment of a project and whether it is feasible. In some SDLC models, the analysis phase comes before the planning phase. Both stages are similar because they allow the project as a whole to be defined in a clear sense before specific work is done on the design and implementation of the product.
+
+
+5. Provide a definition for Software Architecture? (10)
+
+
+Software architecture is the overall design of a software system and the interrelationships between its parts. Some projects have a monolithic architecture, others are more modular. A software architect would determine how the project modules interact with each other and how they fit into the overall system.
+
+
+6. What is software design? (10)
+
+Software design involves determining the steps that must be taken for a given software program to run properly. It determines to some degree the behavior, style, and function of the code. It can also include things that are not functional, such as the reliability of the system.
+
+
+7. We looked at 10 software design principles.  What is meant by the principle ” The design process should not suffer from "tunnel vision." ? (5)
